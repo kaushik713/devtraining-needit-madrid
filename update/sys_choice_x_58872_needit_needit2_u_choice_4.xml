@@ -4,7 +4,7 @@
             <dependent_value/>
             <element>u_choice_4</element>
             <hint/>
-            <inactive>false</inactive>
+            <inactive>true</inactive>
             <label>Human Resources 1</label>
             <language>en</language>
             <name>x_58872_needit_needit2</name>
@@ -14,9 +14,9 @@
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>3c4d4145dbc23300ffc5e9c94896191c</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-13 09:04:22</sys_updated_on>
+            <sys_updated_on>2019-06-17 09:04:46</sys_updated_on>
             <value>hr1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -27,15 +27,15 @@
             <label>Human Resources 1</label>
             <language>en</language>
             <name>x_58872_needit_needit2</name>
-            <sequence>1</sequence>
+            <sequence>0</sequence>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2019-06-13 09:04:22</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>b84d4145dbc23300ffc5e9c94896191e</sys_id>
-            <sys_mod_count>0</sys_mod_count>
+            <sys_mod_count>1</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2019-06-13 09:04:22</sys_updated_on>
+            <sys_updated_on>2019-06-17 09:04:46</sys_updated_on>
             <value>hr2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
@@ -151,6 +151,25 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-06-13 09:04:22</sys_updated_on>
             <value>your_choice2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_4</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>other</label>
+            <language>en</language>
+            <name>x_58872_needit_needit2</name>
+            <sequence>8</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-17 09:04:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>75b33d16dbc23300ffc5e9c9489619fe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-17 09:04:46</sys_updated_on>
+            <value>other</value>
         </sys_choice>
         <sys_choice_set action="INSERT_OR_UPDATE">
             <element>u_choice_4</element>

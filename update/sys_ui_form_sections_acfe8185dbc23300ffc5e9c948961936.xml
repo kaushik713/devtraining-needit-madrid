@@ -10,7 +10,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_58872_needit_needit2" name="x_58872_needit_needit2" sys_domain="global" view="Default view">acfe8185dbc23300ffc5e9c948961936</sys_ui_form>
-            <sys_ui_section caption="NULL" display_value="" name="x_58872_needit_needit2" sys_domain="global" view="Default view">d810c1c9db823300ffc5e9c94896190c</sys_ui_section>
+            <sys_ui_section caption="NULL" display_value="x_58872_needit_needit2" name="x_58872_needit_needit2" sys_domain="global" view="Default view">d810c1c9db823300ffc5e9c94896190c</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-06-13 09:11:44</sys_updated_on>
         </sys_ui_form_section>
@@ -24,7 +24,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_58872_needit_needit2" name="x_58872_needit_needit2" sys_domain="global" view="Default view">acfe8185dbc23300ffc5e9c948961936</sys_ui_form>
-            <sys_ui_section caption="log" display_value="log" name="x_58872_needit_needit2" sys_domain="global" view="Default view">64fe8185dbc23300ffc5e9c948961935</sys_ui_section>
+            <sys_ui_section caption="log" display_value="x_58872_needit_needit2" name="x_58872_needit_needit2" sys_domain="global" view="Default view">64fe8185dbc23300ffc5e9c948961935</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-06-13 09:11:44</sys_updated_on>
         </sys_ui_form_section>
@@ -38,7 +38,7 @@
             <sys_mod_count>0</sys_mod_count>
             <sys_overrides/>
             <sys_ui_form display_value="x_58872_needit_needit2" name="x_58872_needit_needit2" sys_domain="global" view="Default view">acfe8185dbc23300ffc5e9c948961936</sys_ui_form>
-            <sys_ui_section caption="staticstics" display_value="staticstics" name="x_58872_needit_needit2" sys_domain="global" view="Default view">60fe8185dbc23300ffc5e9c948961936</sys_ui_section>
+            <sys_ui_section caption="staticstics" display_value="x_58872_needit_needit2" name="x_58872_needit_needit2" sys_domain="global" view="Default view">60fe8185dbc23300ffc5e9c948961936</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-06-13 09:11:44</sys_updated_on>
         </sys_ui_form_section>
